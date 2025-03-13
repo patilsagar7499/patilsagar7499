@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **📧 Email: patilsagar7499@gmail.com 💼 LinkedIn: linkedin.com/in/sagarpatil7499**
 
-- 📄 Know about my experiences [resume-sagar.tiiny.site](resume-sagar.tiiny.site)
+- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/zfggsyqctvjt#9bdf0f)
 
 - ⚡ Fun fact **I can solve LeetCode problems for fun, but debugging my own code takes forever! 😆**
 
