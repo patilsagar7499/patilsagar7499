@@ -21,7 +21,6 @@
 
 - ⚡ Fun fact **I can solve LeetCode problems for fun, but debugging my own code takes forever! 😆**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
