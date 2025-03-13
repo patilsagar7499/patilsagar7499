@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/patilsagar7499](https://github.com/patilsagar7499)
 
-- 📝 I regularly write articles on [✍️ Coming soon...](✍️ Coming soon...)
+- 📝 I regularly write articles on [✍️ Coming soon...]
 
 - 💬 Ask me about **Data Structures & Algorithms**
 
